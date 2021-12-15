@@ -72,7 +72,7 @@ Here is the image of the target pose:
 
 
 
-# 4. Controller 
+# 4. Robot Navigation 
 
 
 # Demo

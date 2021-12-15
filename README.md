@@ -77,7 +77,10 @@ Here is the image of the target pose:
 
 # Demo
 
-https://user-images.githubusercontent.com/62597513/146203683-6310cd37-35de-4570-a0cc-35da5de62e26.mp4
+
+https://user-images.githubusercontent.com/62597513/146273122-4440165a-5ad5-448a-b301-9e258d0fdce2.mp4
+
+
 
 
 

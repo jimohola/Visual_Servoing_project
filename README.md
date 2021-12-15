@@ -47,7 +47,7 @@ The intrinsic is shown below:
 
 # 2. Image Detection 
 
-This is the second phase of the project. Here, we used the fisheye camera to to acquire real time image by subscribing to the ROS topic **"/camera/image_raw"**. The image was saved as **goal_pose.png**. We then used the distortion coefficients acquired from the camera calibration stage to undistort the image. The image is shown below: 
+This is the second phase of the project. Here, we used the fisheye camera to acquire real time image by subscribing to the ROS topic **"/camera/image_raw"**. The image was saved as **goal_pose.png**. We then used the distortion coefficients acquired from the camera calibration stage to undistort the image. The image is shown below: 
 
 ![goal_pose](https://user-images.githubusercontent.com/62597513/146259814-f4354f2c-3400-4e60-850f-02a537bbb40a.png)
 

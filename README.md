@@ -24,12 +24,16 @@ source : https://www.robotis.us/turtlebot-3-burger-us/
 
 - Camera - **Raspberry Pi ‘fish-eye’** camera
 - The system was run through a **stationary PC**, connected to the TurtleBot3 running **Ubuntu 18.04**
+- Robotic Operating System **(ROS)** software
 
 
 # Project Architecture 
-- Visual Servoing
-     - Pose estimation
-     - 
+- Camera Calibration
+- Pose Estimation
+- Robot Navigation
+
+
+
 
 
 

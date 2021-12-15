@@ -85,10 +85,10 @@ https://user-images.githubusercontent.com/62597513/146277477-9d324bbb-15b8-4d70-
 
 
 # To test the codes, the commands are below:
-- Execute [roscore]
-- Launch the Camera [roslaunch ueye_cam rgb8.launch] on **PC**
-- Bringup the Robot [roslaunch turtlebot3_bringup turtlebot3_robot.launch] on the **ROBOT**
-- Run the python file [rosrun launch files pose-estimation.py] 
+- Execute "roscore"
+- Launch the Camera "roslaunch ueye_cam rgb8.launch" on **PC**
+- Bringup the Robot "roslaunch turtlebot3_bringup turtlebot3_robot.launch" on the **ROBOT**
+- Run the python file "rosrun launch files pose-estimation.py" on **PC**
 
 
 

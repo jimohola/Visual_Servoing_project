@@ -68,6 +68,7 @@ The detected image is shown below:
 To estimate the current and target pose, we call the function **aruco.estimatePoseSingleMarkers** in order to get the  **translational vector** [x, y, z] and **rotational vector** [x, y, z] in order to calculate the linear x and angular z speed of the robot in order to move through the target direction. As such, the controller will subscribe to get the  message from our source file [pose-estimation.py](https://github.com/jimohola/Visual_Servoing_project/blob/main/launch%20files/pose-estimation.py) in order to send those vectors.
 
 Here is the image of the target pose:
+
 ![detect target pose](https://user-images.githubusercontent.com/62597513/146269854-677edffa-9cd0-4e97-bcb3-3bcdd4350181.png)
 
 

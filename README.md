@@ -6,7 +6,7 @@
 ### Lateef Olalekan Aderinoye and Olarinde Fatai Jimoh
 
 ## Supervised by: 
-   ###            Omar Tahri
+   ###            Omar Tahri (Proffesor)
    ###            Ahmed Wael Ahmed Hossameldin
 
    

@@ -74,7 +74,9 @@ Here is the image of the target pose:
 
 
 # 4. Robot Navigation 
+We did a simple PID controller to move the robot to the target pose. 
 
+![contrl](https://user-images.githubusercontent.com/62597513/146284500-203be0dc-5d2c-46e3-9c50-f0731a061325.png)
 
 # Demo
 

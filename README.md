@@ -75,6 +75,7 @@ Here is the image of the target pose:
 
 # 4. Robot Navigation 
 We did a simple PID controller to move the robot to the target pose. Here, it is a position controller because the speed controller is already built inside the robot. The idea is to minimize error. So we have two errors;
+
 **Error 1**- It is the distance between the current position and the parking position. 
 **Error 2**- It is the angle towards the parking position. 
 
